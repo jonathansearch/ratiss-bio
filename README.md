@@ -12,10 +12,10 @@
 
 **Transferring the bat's superpowers (longevity, echolocation, hibernation) to humans through topological protein engineering.**
 
-[![Release](https://img.shields.io/badge/release-v0.7.0--in--silico--dossier-blueviolet)](https://github.com/samajonathan9-source/ratiss-bio/releases)
+[![Release](https://img.shields.io/badge/release-v0.7.0--in--silico--dossier-blueviolet)](https://github.com/jonathansearch/ratiss-bio/releases)
 [![Python](https://img.shields.io/badge/python-3.10%2B-blue)](https://www.python.org/)
 [![QPU](https://img.shields.io/badge/QPU-IBM%20Kingston%20156q-6f42c1)](https://quantum.ibm.com/)
-[![Status](https://img.shields.io/badge/status-in--silico%20certifié-success)](artifacts/dossier_institution/DOSSIER_INSTITUTION.json)
+[![Status](https://img.shields.io/badge/status-in--silico%20certified-success)](artifacts/dossier_institution/DOSSIER_INSTITUTION.json)
 
 > Intellectual property: **JOHNKING0 & Jonathan Evina** · RATIS Labs (Cameroon)
 > ORCID [0009-0000-4092-5313](https://orcid.org/0009-0000-4092-5313)
@@ -205,7 +205,7 @@ ratiss-bio/
 ## 🚀 Reproduction
 
 ```bash
-git clone https://github.com/samajonathan9-source/ratiss-bio
+git clone https://github.com/jonathansearch/ratiss-bio
 cd ratiss-bio
 pip install -r requirements.txt
 pip install openmm          # for molecular dynamics (Exp. 118)
